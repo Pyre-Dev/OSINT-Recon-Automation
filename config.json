@@ -1,0 +1,6 @@
+{
+  "shodan_api_key": "your_shodan_key",
+  "hibp_api_key": "your_hibp_key",
+  "abuseipdb_api_key": "your_abuseipdb_key",
+  "virustotal_api_key": "your_virustotal_key"
+}
